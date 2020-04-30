@@ -1,6 +1,8 @@
 <template>
   <div id="app">
     <h1>Ejemplo NetLify</h1>
+    <h6>Geolocalizacion</h6>
+    <hr/>
   </div>
 </template>
 
